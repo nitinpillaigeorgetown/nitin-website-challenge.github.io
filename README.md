@@ -1,3 +1,22 @@
+# website-challenge
+
+Submitted by - Nitin Pillai and Prateek Chandak
+
+Website inspired by Epicurean Restaurant in Georgetown University.
+
+Mobile-Responsive. Includes Epicurean Menu screenshots in the repository.
+
+Website Link - https://nitinpillaigeorgetown.github.io/nitin-website-challenge.github.io/
+
+
+
+
+
+
+
+
+
+
 # student-site
 
 An example student website, hosted by [GitHub Pages](https://pages.github.com/).
